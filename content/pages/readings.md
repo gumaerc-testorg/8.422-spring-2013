@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2d36858f-2077-0298-7119-54095ae8aa53
 ---
@@ -125,7 +128,7 @@ Weissbluth, Mitchel. "The Radiation Field up to Squeezing." Chapter 4.4–4.8 in
 
 Vučković, Jelena, David Fattal, et al. "[Enhanced Single-Photon Emission from a Quantum Dot in a Micropost Microcavity](http://dx.doi.org/10.1063/1.1577828)." _Applied Physics Letters_ 82, no. 21 (2003): 3596.
 
-Kuhn, Axel, Markus Hennrich, et al. "[Deterministic Single-Photon Source for Distributed Quantum Networking](http://dx.doi.org/10.1103/PhysRevLett.89.067901)." _Physcial Review Letters_ 89, no. 6 (2002): 067901 (4 pages). Group Papers (Example of Single Photon g(2)(tau) meas.)
+Kuhn, Axel, Markus Hennrich, et al. "[Deterministic Single-Photon Source for Distributed Quantum Networking](http://dx.doi.org/10.1103/PhysRevLett.89.067901)." _Physcial Review Letters_ 89, no. 6 (2002): 067901 (4 pages). Group Papers (Example of Single Photon g{{< sup "(2)" >}}(tau) meas.)
 
 
 {{< tdclose >}}

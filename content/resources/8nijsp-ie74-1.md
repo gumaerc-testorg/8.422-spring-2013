@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-422-atomic-and-optical-physics-ii-spring-2013/c00717c3e7f2f7177638e9ecf4ff1e72_8NiJSP-iE74.pdf
+file: /media/courses/8-422-atomic-and-optical-physics-ii-spring-2013/c00717c3e7f2f7177638e9ecf4ff1e72_8NiJSP-iE74.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: c00717c3-e7f2-f717-7638-e9ecf4ff1e72

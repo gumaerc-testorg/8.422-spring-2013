@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Unraveling Open System Quantum Dynamics'
 uid: 5f74b7ca-7e1e-f051-2f1d-c9bb1abd650b
 video_files:
   archive_url: http://www.archive.org/download/MIT8.422S13/MIT8_422S13_lec15_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-422-atomic-and-optical-physics-ii-spring-2013/9b205b587ac05be3ab5b748b712d27b5_vFmdogFFcko.vtt
+  video_captions_file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/9b205b587ac05be3ab5b748b712d27b5_vFmdogFFcko.vtt
   video_thumbnail_file: https://img.youtube.com/vi/vFmdogFFcko/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-422-atomic-and-optical-physics-ii-spring-2013/b5239e800be2d8a25ef0de736e5bfb43_vFmdogFFcko.pdf
+  video_transcript_file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/b5239e800be2d8a25ef0de736e5bfb43_vFmdogFFcko.pdf
 video_metadata:
   youtube_id: vFmdogFFcko
 ---

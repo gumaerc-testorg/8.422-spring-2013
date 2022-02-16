@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 12: Resonant interactions'
 uid: df516e1c-ae86-2bf3-f63c-c7aa4e3bf17d
 video_files:
   archive_url: http://www.archive.org/download/MIT8.422S13/MIT8_422S13_lec12_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-422-atomic-and-optical-physics-ii-spring-2013/9c6ca1d83097567683a737367abaf91c_ZEmvTidO7k4.vtt
+  video_captions_file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/9c6ca1d83097567683a737367abaf91c_ZEmvTidO7k4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ZEmvTidO7k4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-422-atomic-and-optical-physics-ii-spring-2013/0f6e5ef196d8d93cbf3d606cb1bdd605_ZEmvTidO7k4.pdf
+  video_transcript_file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/0f6e5ef196d8d93cbf3d606cb1bdd605_ZEmvTidO7k4.pdf
 video_metadata:
   youtube_id: ZEmvTidO7k4
 ---
