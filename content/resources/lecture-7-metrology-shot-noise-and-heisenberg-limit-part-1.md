@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Metrology, shot noise and Heisenberg limit,  Part 1'
 uid: ed4ef807-7379-e283-8e2c-21eba8098ddf
 video_files:

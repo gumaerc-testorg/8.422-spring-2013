@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2d36858f-2077-0298-7119-54095ae8aa53
 resourcetype: Document
 title: 3 pages lecture notes
 uid: 8ca7d6c0-2df8-8b38-9e85-6ddb16800e38

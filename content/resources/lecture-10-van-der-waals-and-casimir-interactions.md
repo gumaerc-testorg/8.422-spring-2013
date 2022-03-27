@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: van der Waals and Casimir interactions'
 uid: 02034ffd-c061-6fd6-c39d-d5799dcb1fcd
 video_files:

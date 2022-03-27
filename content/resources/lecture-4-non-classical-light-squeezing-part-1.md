@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Non-classical light, squeezing, Part 1'
 uid: dc5c24fd-2087-2310-0122-5d11df33a99d
 video_files:

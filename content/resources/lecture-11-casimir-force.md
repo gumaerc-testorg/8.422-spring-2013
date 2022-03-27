@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Casimir force'
 uid: db2afe3a-f9b7-4d13-ec36-75c8f3bbe4c8
 video_files:

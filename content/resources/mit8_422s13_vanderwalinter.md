@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2d36858f-2077-0298-7119-54095ae8aa53
 resourcetype: Document
 title: The Vanderwaals Interaction
 uid: f9127aac-384f-a682-a752-19bd2a23ad8b
