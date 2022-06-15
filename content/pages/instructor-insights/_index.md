@@ -1,21 +1,21 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: b8377af0-134e-1f5e-23e3-faf3484afc64
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _8.422 Atomic and Optical Physics II_ as it was taught by Professor Wolfgang Ketterle in Spring 2013.
 
-This graduate-level course is the second of a two-semester subject sequence beginning with [_8.421 Atomic and Optical Physics I_](/courses/8-421-atomic-and-optical-physics-i-spring-2014/) that provides the foundations for contemporary research in selected areas of atomic and optical physics.
+This graduate-level course is the second of a two-semester subject sequence beginning with [_8.421 Atomic and Optical Physics I_](/courses/8-421-atomic-and-optical-physics-i-spring-2014) that provides the foundations for contemporary research in selected areas of atomic and optical physics.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -23,26 +23,24 @@ The purpose of this two-semester subject sequence is to introduce graduate stude
 
 ### Possibilities for Further Study/Careers
 
-Cold atoms are often used to address problems of condensed matter physics, so many students who take this subject sequence go on to take [_8.511 Theory of Solids I_](/courses/8-511-theory-of-solids-i-fall-2004/) and [_8.512 Theory of Solids II_](/courses/8-512-theory-of-solids-ii-spring-2009/). Some students take a course, taught by Eugene Demler at Harvard, called ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Special Topics in Condensed Matter Physics_ (PDF)](http://cmt.harvard.edu/demler/TEACHING/p268r_2012.pdf). Others go on to take courses in quantum computation.
+Cold atoms are often used to address problems of condensed matter physics, so many students who take this subject sequence go on to take [_8.511 Theory of Solids I_](/courses/8-511-theory-of-solids-i-fall-2004) and [_8.512 Theory of Solids II_](/courses/8-512-theory-of-solids-ii-spring-2009). Some students take a course, taught by Eugene Demler at Harvard, called [_Special Topics in Condensed Matter Physics_ (PDF)](http://cmt.harvard.edu/demler/TEACHING/p268r_2012.pdf). Others go on to take courses in quantum computation.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-_In the following pages Wolfgang Ketterle describes various aspects of how he teaches _8.422 Atomic and Optical Physics II_._
+_In the following pages Wolfgang Ketterle describes various aspects of how he teaches_ 8.422 Atomic and Optical Physics II.
 
-*   [Clicker Questions]({{< baseurl >}}/pages/instructor-insights/clicker-questions)
-*   [Using a Tablet Computer During Lectures]({{< baseurl >}}/pages/instructor-insights/using-a-tablet-in-the-same-way-as-a-blackboard)
-*   [Assessing Students' Writing]({{< baseurl >}}/pages/instructor-insights/assessing-students-writing)
-*   [Teaching Graduate Students]({{< baseurl >}}/pages/instructor-insights/teaching-graduate-students)
+- {{% resource_link 2761817d-4f43-e6f2-86ea-c1eb3b0928b5 "Clicker Questions" %}}
+- {{% resource_link 24305b28-3320-b4b0-3dd8-d8fb5b7096fd "Using a Tablet Computer During Lectures" %}}
+- {{% resource_link 95363796-3ed2-8dd0-7215-bf8fda745e47 "Assessing Students' Writing" %}}
+- {{% resource_link d744a745-1176-dfd3-b58a-2c4d9ed54657 "Teaching Graduate Students" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisite
 
-[_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/)
+[_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013)
 
 ### Requirements Satisfied
 
@@ -50,22 +48,22 @@ This course may be applied toward a [doctoral degree](http://catalog.mit.edu/sch
 
 ### Offered
 
-Atomic physics is taught every spring semester, alternating between [_8.421 Atomic and Optical Physics I_](/courses/8-421-atomic-and-optical-physics-i-spring-2014/) and _8.422 Atomic and Optical Physics II_. Depending on when they matriculate, students begin with either 8.421 or 8.422. It is somewhat more logical to go from fundamental concepts to more advanced topics, but the reverse sequence also works well.
+Atomic physics is taught every spring semester, alternating between [_8.421 Atomic and Optical Physics I_](/courses/8-421-atomic-and-optical-physics-i-spring-2014) and _8.422 Atomic and Optical Physics II_. Depending on when they matriculate, students begin with either 8.421 or 8.422. It is somewhat more logical to go from fundamental concepts to more advanced topics, but the reverse sequence also works well.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
 - 50% Assignments
 - 50% Term paper
 
-Student Information
--------------------
+## Student Information
 
-![On average, 34 students take this course each time it is offered.]({{< resource_file 1aca2047-1397-fe74-0b2c-91314b4f875e >}})
+### Enrollment
+
+34 students
 
 ### Breakdown by Year
 
@@ -81,31 +79,27 @@ This class should have at least 10-15 students to allow for active discussions.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
-*   Met 2 times per week for 1.5 hours per session; 25 sessions total; voluntary attendance.
-*   Lectures typically began with a brief summary of previously covered content, an introduction to the focus of the current lecture, and a preview of what would be covered next.
-*   Lectures consisted of instructor-led presentations and questions from students.
-*   [Clicker questions]({{< baseurl >}}/pages/instructor-insights/clicker-questions) ![](/images/educator/icon-question-clickq.png) were occasionally used to gauge students’ understanding during lectures.
+- Met 2 times per week for 1.5 hours per session; 25 sessions total; voluntary attendance.
+- Lectures typically began with a brief summary of previously covered content, an introduction to the focus of the current lecture, and a preview of what would be covered next.
+- Lectures consisted of instructor-led presentations and questions from students.
+- {{% resource_link 2761817d-4f43-e6f2-86ea-c1eb3b0928b5 "Clicker questions" %}} ![](/images/educator/icon-question-clickq.png) were occasionally used to gauge students’ understanding during lectures.
 
-Out of Class
-------------
+### Out of Class
 
-*   Students completed readings, problem sets, and a term paper.
+- Students completed readings, problem sets, and a term paper.
 
 {{< anchor "roles" >}}{{< /anchor >}}
 
-Course Team Roles
------------------
+## Course Team Roles
 
 ### Lead Instructor (Prof. Wolfgang Ketterle)
 
-*   Developed and delivered lectures
-*   Assessed students’ term papers
-*   Held office hours for consultations
+- Developed and delivered lectures
+- Assessed students’ term papers
+- Held office hours for consultations
