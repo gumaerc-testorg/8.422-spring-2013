@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '4630'
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -12,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1'
 title: 'Lecture 2: QED Hamiltonian'
 uid: 2430eb60-6a73-0a12-150f-8c2bd05c744e
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor discussed QED Hamiltonian starting from electromagnetism.
 
 **Instructor:** Wolfgang Ketterle
+
+
+

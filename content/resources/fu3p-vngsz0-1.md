@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-422-atomic-and-optical-physics-ii-spring-2013/8ba92822f8e256e3d1f533d864dcfb31_FU3P-vnGSZ0.pdf
+file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/8ba92822f8e256e3d1f533d864dcfb31_FU3P-vnGSZ0.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

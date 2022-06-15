@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "In this section, Professor Ketterle shares his insights about assessing\
+  \ students\u2019 writing."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
