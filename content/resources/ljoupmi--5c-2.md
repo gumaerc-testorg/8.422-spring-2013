@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/09989605dca051c9b4db520cd4579db3_lJOuPmI--5c.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

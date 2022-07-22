@@ -5,6 +5,7 @@ file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/0b40206cb3d5e0293
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

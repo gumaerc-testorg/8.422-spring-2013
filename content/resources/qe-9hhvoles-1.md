@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/e802971542bb1528663cb42667e77405_QE-9hHvOles.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
