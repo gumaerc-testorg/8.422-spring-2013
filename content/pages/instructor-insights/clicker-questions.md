@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Professor Ketterle discusses his use of clicker questions
+  during lectures.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b8377af0-134e-1f5e-23e3-faf3484afc64
 title: Clicker Questions
 uid: 2761817d-4f43-e6f2-86ea-c1eb3b0928b5

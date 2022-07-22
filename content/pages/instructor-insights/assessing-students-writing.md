@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: "In this section, Professor Ketterle shares his insights about assessing\
+  \ students\u2019 writing."
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b8377af0-134e-1f5e-23e3-faf3484afc64
 title: Assessing Students' Writing
 uid: 95363796-3ed2-8dd0-7215-bf8fda745e47

@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Professor Ketterle discusses how he uses a tablet computer
+  during lectures.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b8377af0-134e-1f5e-23e3-faf3484afc64
 title: Using a Tablet During Lectures
 uid: 24305b28-3320-b4b0-3dd8-d8fb5b7096fd
