@@ -35,8 +35,10 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Problem Sets"
+    "Problem Sets",
+    "Instructor Insights"
   ],
-  "site_uid": "db1f28b6-e46d-490a-bfab-43c98029d3c9",
+  "site_uid": "88a3678f-00f1-4ae3-8ec1-8821a2b04f5f",
+  "site_short_id": "8.422-spring-2013",
   "title": "Course Metadata"
 }
