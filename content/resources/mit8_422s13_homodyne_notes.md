@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/8ca7d6c02df88b389e856ddb16800e38_MIT8_422S13_homodyne_notes.pdf
+file_size: 120385
 file_type: application/pdf
 learning_resource_types:
 - Readings
