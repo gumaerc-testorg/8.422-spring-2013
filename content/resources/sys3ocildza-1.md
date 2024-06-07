@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/eeb9b1e58827fd37dd2dd6a66a8c0ab5_sYS3OCiLDzA.pdf
+file_size: 81892
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
