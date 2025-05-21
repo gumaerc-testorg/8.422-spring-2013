@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-422-atomic-and-optical-physics-ii-spring-2013/0b40206cb3d5e0293e64d52a0aa49cb5_MIT8_422S13_casimir_effect.pdf
+file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/0b40206cb3d5e0293e64d52a0aa49cb5_MIT8_422S13_casimir_effect.pdf
 file_size: 138320
 file_type: application/pdf
 learning_resource_types:

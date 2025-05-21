@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-422-atomic-and-optical-physics-ii-spring-2013/4938ab4a8363b3bdc3e97cfda5cb4e66_Ef1eG33K_V0.pdf
+file: /courses/8-422-atomic-and-optical-physics-ii-spring-2013/4938ab4a8363b3bdc3e97cfda5cb4e66_Ef1eG33K_V0.pdf
 file_size: 88579
 file_type: application/pdf
 learning_resource_types: []
