@@ -23,7 +23,7 @@ The purpose of this two-semester subject sequence is to introduce graduate stude
 
 ### Possibilities for Further Study/Careers
 
-Cold atoms are often used to address problems of condensed matter physics, so many students who take this subject sequence go on to take [_8.511 Theory of Solids I_](/courses/8-511-theory-of-solids-i-fall-2004) and [_8.512 Theory of Solids II_](/courses/8-512-theory-of-solids-ii-spring-2009). Some students take a course, taught by Eugene Demler at Harvard, called [_Special Topics in Condensed Matter Physics_ (PDF)](http://cmt.harvard.edu/demler/TEACHING/p268r_2012.pdf). Others go on to take courses in quantum computation.
+Cold atoms are often used to address problems of condensed matter physics, so many students who take this subject sequence go on to take [_8.511 Theory of Solids I_](/courses/8-511-theory-of-solids-i-fall-2004) and [_8.512 Theory of Solids II_](/courses/8-512-theory-of-solids-ii-spring-2009). Some students take a course, taught by Eugene Demler at Harvard, called {{% resource_link "ac846ff3-b5cd-45ee-82de-d34f8302c755" "_Special Topics in Condensed Matter Physics_ (PDF)" %}}. Others go on to take courses in quantum computation.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -44,7 +44,7 @@ _In the following pages Wolfgang Ketterle describes various aspects of how he te
 
 ### Requirements Satisfied
 
-This course may be applied toward a [doctoral degree](http://catalog.mit.edu/schools/science/physics/#graduatetext) in physics with the approval of the candidate’s committee.
+This course may be applied toward a {{% resource_link "a9d94aad-362f-44f1-8087-cfd92c95d064" "doctoral degree" %}} in physics with the approval of the candidate’s committee.
 
 ### Offered
 
